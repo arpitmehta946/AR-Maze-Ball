@@ -1,8 +1,6 @@
 # ARMaze
 An AR-Maze app created using Unity-Vuforia
 
-http://www.instructables.com/id/Augmented-Reality-Tutorial-for-Beginners-With-Vufo/
-
 ## Download the app - 
 
 https://www.dropbox.com/s/l4qxc1g25tad5ud/ARMaze.apk?dl=0
